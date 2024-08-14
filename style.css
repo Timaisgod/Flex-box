@@ -1,0 +1,24 @@
+.green{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: 10px solid black;
+
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 10px solid black
+}
+.yellow1-green2-yellow2-green4{
+    display: flex;
+    
+}
+.green5-yellow6{
+    display: flex;
+
+}
+.yellow-7-green8-yellow9-green10{
+    display: flex;
+}
